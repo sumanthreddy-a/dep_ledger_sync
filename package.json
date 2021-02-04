@@ -31,7 +31,7 @@
     "mongoose": "^5.2.6",
     "protobufjs": "^6.8.0",
     "rethinkdb": "^2.3.3",
-    "sawtooth-sdk": "^1.0.0-rc",
+    "sawtooth-sdk": "^1.1.1",
     "utf-8": "^2.0.0"
   },
   "devDependencies": {
