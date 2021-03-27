@@ -29,7 +29,7 @@
     "js-schema": "^1.0.1",
     "lodash": "^4.17.4",
     "mongoose": "^5.2.6",
-    "protobufjs": "^6.8.0",
+    "protobufjs": "^6.10.2",
     "rethinkdb": "^2.3.3",
     "sawtooth-sdk": "^1.0.0-rc",
     "utf-8": "^2.0.0"
