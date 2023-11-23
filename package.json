@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/hyperledger/sawtooth-supply-chain#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.27.2",
     "base-64": "^0.1.0",
     "body-parser": "^1.17.2",
     "express": "^4.16.3",
